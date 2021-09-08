@@ -1,0 +1,12 @@
+$assoc[][]="a
+s
+da
+sd";
+$assoc[][]="asw
+dasd";
+$assoc[][]="asd
+qwasd";
+$assoc[][]="asdfgasd";
+$assoc[][]="asdfgasasdd";
+$assoc[][]="asd
+azxcsd";

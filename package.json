@@ -1,0 +1,24 @@
+{
+  "name": "assoc-diff",
+  "version": "1.0.0",
+  "description": "Compares the files of 2 folders containing associate arrays key-value pairs, and merges them into single files",
+  "main": "assocDiffer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "assocDiff"
+  },
+  "keywords": [
+    "start"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "line-reader": "^0.4.0",
+    "promisify": "0.0.3"
+  },
+  "type": "module"
+}
